@@ -1,0 +1,12 @@
+flask
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-core
+chromadb
+sentence-transformers
+beautifulsoup4
+requests
+lxml
